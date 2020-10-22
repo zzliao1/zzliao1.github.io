@@ -11,6 +11,11 @@
 - conda deactivate
 
 ```
+1创建环境
+2激活
+3根据requierment下载包
+4根据readme在相应环境下运行
+5用deactivate（换环境，记得要退出）
 
 ## Welcome to GitHub Pages
 
