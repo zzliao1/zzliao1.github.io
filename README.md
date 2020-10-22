@@ -1,20 +1,15 @@
 ## 2020.10.22 Virtual Environment
 ```markdown
 
+1. Create with conda
+- conda create -n dip
 
-# create virtual environment
-## Header 2
-### Header 3
+2. Activate venv
+- activate dip
 
-- Bulleted
-- List
+3. Exit venv
+- conda deactivate
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 ## Welcome to GitHub Pages
